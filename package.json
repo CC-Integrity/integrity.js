@@ -1,0 +1,60 @@
+{
+  "name": "integrity.js",
+  "version": "1.6.0",
+  "description": "Mobile-first React enhancement with built-in performance optimization, memory management, and device-aware rendering",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "react",
+    "mobile",
+    "performance",
+    "framework",
+    "mobile-first",
+    "memory-management",
+    "device-detection",
+    "image-optimization",
+    "hooks",
+    "enhancement"
+  ],
+  "author": {
+    "name": "CC Integrity LLC",
+    "email": "support@cc-integrity.com",
+    "url": "https://cc-integrity.com"
+  },
+  "license": "MIT",
+  "homepage": "https://cc-integrity.com/framework",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cc-integrity/integrity.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cc-integrity/integrity.js/issues"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not dead",
+    "not < 2%",
+    "iOS >= 12",
+    "Android >= 8"
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://cc-integrity.com/sponsor"
+  }
+}
