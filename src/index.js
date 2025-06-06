@@ -153,7 +153,7 @@ const Integrity = {
   useAdaptiveFeatures,
   
   // Utility functions
-  version: '1.3.0', // Updated to match package.json
+  version: '1.7.0', // 
   
   // Configuration
   configure: configureIntegrity,
@@ -175,5 +175,5 @@ if (typeof window !== 'undefined') {
     autoOptimize: true
   });
   
-  console.log('🚀 Integrity.js v1.3.0 loaded - Complete mobile-first React replacement active');
+  console.log('🚀 Integrity.js v1.7.0 loaded - Complete mobile-first React replacement active');
 }
