@@ -1,7 +1,7 @@
 {
  "name": "integrity.js",
- "version": "1.7.0",
- "description": "Every React mobile project requires 400+ lines of complex optimization code. We abstracted it to attributes that compile to optimized code.",
+ "version": "1.7.1",
+ "description": "We didn't just build on React 18 - we improved React 18. Mobile-first React enhancement with performance-aware HTML attributes that compile to expert-level mobile optimizations.",
  "main": "src/index.js",
  "module": "src/index.js",
  "files": [
@@ -21,8 +21,17 @@
   "hooks",
   "enhancement",
   "performance-aware-html",
-  "react-19",
-  "3d-galleries"
+  "react-18",
+  "3d-galleries",
+  "mobile-optimization",
+  "progressive-web-app",
+  "real-time-monitoring",
+  "battery-aware",
+  "network-aware",
+  "touch-optimization",
+  "fitness-app",
+  "video-galleries",
+  "gesture-control"
  ],
  "author": {
   "name": "CC Integrity LLC",
@@ -30,13 +39,13 @@
   "url": "https://cc-integrity.com"
  },
  "license": "MIT",
- "homepage": "https://cc-integrity.com/dev-blog",
+ "homepage": "https://cc-integrity.com/",
  "repository": {
   "type": "git",
   "url": "https://github.com/cc-integrity/integrity.js.git"
  },
  "bugs": {
-  "url": "https://cc-integrity.com"
+  "url": "https://github.com/cc-integrity/integrity.js/issues"
  },
  "peerDependencies": {
   "react": ">=16.8.0",
@@ -59,5 +68,15 @@
  "funding": {
   "type": "individual",
   "url": "https://cc-integrity.com/investors"
+ },
+ "scripts": {
+  "build": "echo 'No build step required - framework ready to use'",
+  "test": "echo 'Tests coming soon - framework in active development'",
+  "demo": "echo 'Live demo at https://cc-integrity.com/fitness'"
+ },
+ "demo": {
+  "fitness": "https://cc-integrity.com/fitness",
+  "framework": "https://cc-integrity.com/framework", 
+  "scale": "https://cc-integrity.com/test"
  }
 }
