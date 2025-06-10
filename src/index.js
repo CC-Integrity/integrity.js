@@ -153,7 +153,7 @@ const Integrity = {
   useAdaptiveFeatures,
   
   // Utility functions
-  version: '1.7.0', // 
+  version: '1.7.1', // 
   
   // Configuration
   configure: configureIntegrity,
