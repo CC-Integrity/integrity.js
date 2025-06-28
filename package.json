@@ -1,7 +1,7 @@
 {
  "name": "integrity.js",
- "version": "1.7.1",
- "description": "We didn't just build on React 18 - we improved React 18. Mobile-first React enhancement with performance-aware HTML attributes that compile to expert-level mobile optimizations.",
+ "version": "1.7.2",
+ "description": "We didn't just build on React 18 - we improved React 18. Mobile-first React enhancement with performance-aware HTML attributes that compile to expert-level mobile optimizations. Now 100% JavaScript compatible!",
  "main": "src/index.js",
  "module": "src/index.js",
  "files": [
@@ -31,7 +31,10 @@
   "touch-optimization",
   "fitness-app",
   "video-galleries",
-  "gesture-control"
+  "gesture-control",
+  "javascript-compatible",
+  "create-react-app",
+  "typescript-free"
  ],
  "author": {
   "name": "CC Integrity LLC",
@@ -72,7 +75,8 @@
  "scripts": {
   "build": "echo 'No build step required - framework ready to use'",
   "test": "echo 'Tests coming soon - framework in active development'",
-  "demo": "echo 'Live demo at https://cc-integrity.com/fitness'"
+  "demo": "echo 'Live demo at https://cc-integrity.com/fitness'",
+  "prepublishOnly": "echo 'Publishing Integrity.js v1.7.2 - JavaScript Compatible'"
  },
  "demo": {
   "fitness": "https://cc-integrity.com/fitness",
